@@ -51,3 +51,8 @@
 
 ### Binder AIDL
 
+### 数据存储
+
+- SharePerference
+- SQLite
+
