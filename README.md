@@ -40,6 +40,11 @@
 
 ### 基本布局
 
+### View控件
+
+- ViewPager
+- Toolbar
+
 ### 蓝牙
 
 ### NDK
