@@ -26,6 +26,14 @@
 
 ### ContentProvider
 
+- ContentResolver 访问数据
+- ContentProvider 提供数据
+- UriMatcher、ContentUris、ContentObserver
+
+[Carson_Ho-关于ContentProvider的知识都在这里了！](https://www.jianshu.com/p/ea8bc4aaf057)
+
+> 介绍了 ContentProvider 和 ContentReslover 的使用和配合SQLite的数据查询
+
 ### BroadcastReceiver
 
 ### 动画
