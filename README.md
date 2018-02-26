@@ -30,7 +30,7 @@
 - ContentProvider 提供数据
 - UriMatcher、ContentUris、ContentObserver
 
-[Carson_Ho-关于ContentProvider的知识都在这里了！](https://www.jianshu.com/p/ea8bc4aaf057)
+[Carson_Ho - 关于ContentProvider的知识都在这里了！](https://www.jianshu.com/p/ea8bc4aaf057)
 
 > 介绍了 ContentProvider 和 ContentReslover 的使用和配合SQLite的数据查询
 
@@ -63,4 +63,12 @@
 
 - SharePerference
 - SQLite
+
+### Okhttp3
+
+- 基础使用
+- 基础架构分析、设计模式分析
+- 各个拦截器作用
+
+[被代码淹没的小伙子 - okhttp源码分析](https://www.jianshu.com/p/37e26f4ea57b)
 
