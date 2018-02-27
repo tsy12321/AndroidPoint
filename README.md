@@ -72,3 +72,12 @@
 
 [被代码淹没的小伙子 - okhttp源码分析](https://www.jianshu.com/p/37e26f4ea57b)
 
+### 多线程
+
+- volatile、synchronized
+- wait、sleep、interupt、notify等
+- 线程池
+- ThreadLocal
+- BlockingQueue
+
+[ghsau - Java线程专栏](http://blog.csdn.net/column/details/java-thread.html)
