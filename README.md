@@ -83,3 +83,12 @@
 [ghsau - Java线程专栏](http://blog.csdn.net/column/details/java-thread.html)
 
 [叉叉哥 - Java主线程等待子线程、线程池](http://blog.csdn.net/xiao__gui/article/details/9213413)
+
+### 计算机网络
+
+- TCP/UDP
+- HTTP/HTTPS
+
+[Carson_Ho - 这是一份详细 & 清晰的计算机网络基础 学习指南](https://www.jianshu.com/p/45d27f3e1196)
+
+[zhaozhongxing - HTTPS 原理详解](https://blog.upyun.com/?p=1347)
