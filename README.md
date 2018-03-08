@@ -84,6 +84,8 @@
 
 [叉叉哥 - Java主线程等待子线程、线程池](http://blog.csdn.net/xiao__gui/article/details/9213413)
 
+[程晓明 - 深入理解Java内存模型（一到七）](http://www.infoq.com/cn/articles/java-memory-model-1)
+
 ### 计算机网络
 
 - TCP/UDP
