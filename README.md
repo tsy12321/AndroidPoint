@@ -59,6 +59,10 @@
 
 ### Binder AIDL
 
+### IPC
+
+[李江东 - Android的IPC机制（一）~ (七)](https://blog.csdn.net/ljd2038/article/details/50704523)
+
 ### 数据存储
 
 - SharePerference
